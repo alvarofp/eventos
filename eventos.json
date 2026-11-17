@@ -2,7 +2,7 @@
   "eventos": [
     {
       "id_unico": "evt-2026-001",
-      "titulo": "Jornada de Innovación Tecnológica en GaiásTech",
+      "titulo": "Xornada de Innovación Tecnolóxica en GaiásTech",
       "resumen": "Un encuentro enfocado en las nuevas soluciones de inteligencia artificial aplicada al sector público gallego.",
       "fecha": "2026-06-15",
       "url_original": "https://gaiastech.gal/eventos/jornada-innovacion-2026",
@@ -10,7 +10,7 @@
     },
     {
       "id_unico": "evt-2026-002",
-      "titulo": "Seminario de Ciberseguridad para Administraciones Locales",
+      "titulo": "Seminario de Ciberseguridade para Administracións Locais",
       "resumen": "Análisis de vectores de ataque y pautas de resiliencia digital en entidades locales de Galicia.",
       "fecha": "2026-06-22",
       "url_original": "https://ciber.gal/eventos/seminario-ciberseguridad",
