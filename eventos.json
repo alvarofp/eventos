@@ -15,6 +15,14 @@
       "fecha": "2026-06-22",
       "url_original": "https://ciber.gal/eventos/seminario-ciberseguridad",
       "imagen_url": "https://fastly.picsum.photos/id/384/1000/600.jpg?hmac=ZDqVe32NhdphWi9bXFbKwUKg-BiCChxHdEaUeGb7h4E"
+    },
+    {
+  "id_unico": "evt-2026-003",
+  "titulo": "Xornada de Intelixencia Artificial Aplicada á Xestión Municipal",
+  "resumen": "Exploración de casos de uso prácticos de automatización, IA xerativa e análise de datos en concellos galegos.",
+  "fecha": "2026-07-15",
+  "url_original": "https://ciber.gal/eventos/ia-municipal",
+  "imagen_url": "https://fastly.picsum.photos/id/325/900/700.jpg?hmac=8vXEXA3sepSNYr3xLxOdRzLp85eOeGkIX3GiCuS-cWE"
     }
   ]
 }
